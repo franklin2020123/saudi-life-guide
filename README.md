@@ -6,8 +6,8 @@
 
 ## 📌 知识库目录
 
-### 💼 工作与职业发展
-- [沙特劳动法与合同注意事项](docs/working/labor-law.md)
+### 💼 银行
+- [沙特个人卡注意事项](docs/working/#银行)
 
 ### 🏡 生活与日常出行
 - [利雅得与吉达租房实操指南](docs/living/housing.md)
